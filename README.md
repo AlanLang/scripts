@@ -5,6 +5,11 @@
 curl -fsSL https://raw.githubusercontent.com/AlanLang/scripts/refs/heads/main/start.sh | bash
 ```
 
+## git config
+```
+curl -fsSL https://raw.githubusercontent.com/AlanLang/scripts/refs/heads/main/git-config.sh | bash
+```
+
 ### yazi
 ```
 curl -fsSL https://raw.githubusercontent.com/AlanLang/scripts/refs/heads/main/yazi.sh | bash
