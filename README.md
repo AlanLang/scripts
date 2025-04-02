@@ -10,6 +10,11 @@ curl -fsSL https://raw.githubusercontent.com/AlanLang/scripts/refs/heads/main/st
 curl -fsSL https://raw.githubusercontent.com/AlanLang/scripts/refs/heads/main/git-config.sh | bash
 ```
 
+## node
+```
+curl -fsSL https://raw.githubusercontent.com/AlanLang/scripts/refs/heads/main/node.sh | bash
+```
+
 ### yazi
 ```
 curl -fsSL https://raw.githubusercontent.com/AlanLang/scripts/refs/heads/main/yazi.sh | bash
